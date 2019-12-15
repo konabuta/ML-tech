@@ -3,7 +3,7 @@
 Microsoft libraries, tools, recipes, ample codes and workshop contents for machine learning & deep learning.
 
 
-# 1. Library & tools
+# 1. Library & tool
 ### [LightGBM](https://github.com/microsoft/LightGBM)
 
 高速勾配ブースティングのライブラリ。Kaggle の成績上位者が良く利用しており、現場でも実績がある。
@@ -12,8 +12,8 @@ Microsoft libraries, tools, recipes, ample codes and workshop contents for machi
 
 統計的因果推論の推定ライブラリ。
 
-### [dowhy](https://github.com/microsoft/dowhy)
-統計的因果推定のライフサイクルをサポートするライブラリ。
+### [DoWhy](https://github.com/microsoft/dowhy)
+統計的因果推論のライフサイクルをサポートするライブラリ。
 
 
 ### [Nueral Network Intelligence](https://github.com/microsoft/nni)
@@ -57,6 +57,16 @@ ONNX モデルファイルを動作させるランタイム
 ### [VoTT](https://github.com/microsoft/VoTT)
 
 画像、動画データ用のタギングツール
+
+
+### [TextWorld](https://github.com/microsoft/TextWorld)
+
+テキストベースの強化学習のためのゲームシミュレーター
+
+
+### [AirSim](https://github.com/microsoft/AirSim)
+
+自動運転シミュレーター
 
 # 2. Recipe
 ### [Computer Vision](https://github.com/microsoft/computervision-recipes)
@@ -110,7 +120,7 @@ Azure IoT Edge に機械学習モデルをデプロイする手順サンプル
 
 DoWhy ライブラリのチュートリアル
 
-### [NVidia Rapids on Azure ML](https://github.com/rapidsai/notebooks-contrib/tree/branch-0.12/conference_notebooks/KDD_2019)
+### [Nvidia Rapids on Azure ML](https://github.com/rapidsai/notebooks-contrib/tree/branch-0.12/conference_notebooks/KDD_2019)
 
 Azure Machine Learning 上で NVidia Rapids を利用するためのチュートリアル。詳細ブログは[こちら](https://medium.com/rapids-ai/rapids-on-microsoft-azure-machine-learning-b51d5d5fde2b)。
 
@@ -126,4 +136,4 @@ Azure Machine Learning 上で NVidia Rapids を利用するためのチュート
 
 Azure の AutoML に関するチュートリアル。
 
-### [Deep learning with TensorFlow 2.0 and Azure @TensorFlow World 2019 ](https://github.com/microsoft/bert-stack-overflow)
+### [Deep Learning with TensorFlow 2.0 and Azure @TensorFlow World 2019 ](https://github.com/microsoft/bert-stack-overflow)
