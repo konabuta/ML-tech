@@ -63,11 +63,19 @@ ONNX モデルファイルを動作させるランタイム
 
 テキストベースの強化学習のためのゲームシミュレーター
 
-
 ### [AirSim](https://github.com/microsoft/AirSim)
 
 自動運転シミュレーター
 
+### [UniLM](https://github.com/microsoft/unilm)
+UniLM - Unified Language Model Pre-training
+
+### [Vowpal Wabbit](https://vowpalwabbit.org/)
+
+Microsoft Reserch と旧 Yahoo! Research が開発している高速機械学習ライブラリ。オンライン機械学習、強化学習にも対応。
+
+### [Microsoft Z3 Solver](https://github.com/Z3Prover/z3)
+定理証明器 (Theorem Prover)
 # 2. Recipe
 ### [Computer Vision](https://github.com/microsoft/computervision-recipes)
 
