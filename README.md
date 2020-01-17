@@ -76,6 +76,10 @@ Microsoft Reserch と旧 Yahoo! Research が開発している高速機械学習
 
 ### [Microsoft Z3 Solver](https://github.com/Z3Prover/z3)
 定理証明器 (Theorem Prover)
+
+### [COCO Dataset](http://cocodataset.org/#home)
+画像データ。80個のカテゴリ、20万以上のラベル付き画像データ、150万個のオブジェクトインスタンスを提供。Microsoft, Facebook などが主要スポンサー。
+
 # 2. Recipe
 ### [Computer Vision](https://github.com/microsoft/computervision-recipes)
 
@@ -126,7 +130,7 @@ Azure IoT Edge に機械学習モデルをデプロイする手順サンプル
 
 ### [Causal Inference and Counterfactual Reasoning @KDD2018](https://causalinference.gitlab.io/kdd-tutorial/)
 
-DoWhy ライブラリのチュートリアル
+因果推論と基本的な理論の解説 & 因果推論フレームワーク DoWhy ライブラリのチュートリアル
 
 ### [Nvidia Rapids on Azure ML](https://github.com/rapidsai/notebooks-contrib/tree/branch-0.12/conference_notebooks/KDD_2019)
 
@@ -145,3 +149,13 @@ Azure Machine Learning 上で NVidia Rapids を利用するためのチュート
 Azure の AutoML に関するチュートリアル。
 
 ### [Deep Learning with TensorFlow 2.0 and Azure @TensorFlow World 2019 ](https://github.com/microsoft/bert-stack-overflow)
+BERT を用いて Stack overflow の質問に自動的にタグを付与するモデル開発を行うワークショップ
+
+
+# 5. Training
+
+### [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
+データサイエンスの基本的な理論について記載している PDF
+
+### [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+初心者向け Python 無料講座
