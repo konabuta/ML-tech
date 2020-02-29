@@ -85,7 +85,7 @@ Microsoft Reserch と旧 Yahoo! Research が開発している高速機械学習
 
 コンピュータービジョンのベストプラクティス集
 
-### [Neural Language Processing](https://github.com/microsoft/nlp-recipes)
+### [Natural Language Processing](https://github.com/microsoft/nlp-recipes)
 
 自然言語処理のベストプラクティス集
 
