@@ -13,6 +13,7 @@ Microsoft libraries, tools, recipes, ample codes and workshop contents for machi
 統計的因果推論の推定ライブラリ。
 
 ### [DoWhy](https://github.com/microsoft/dowhy)
+
 統計的因果推論のライフサイクルをサポートするライブラリ。
 
 
