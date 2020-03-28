@@ -81,6 +81,14 @@ Microsoft Reserch と旧 Yahoo! Research が開発している高速機械学習
 ### [COCO Dataset](http://cocodataset.org/#home)
 画像データ。80個のカテゴリ、20万以上のラベル付き画像データ、150万個のオブジェクトインスタンスを提供。Microsoft, Facebook などが主要スポンサー。
 
+### [DeepSpeed](https://github.com/microsoft/DeepSpeed)
+大規模な分散並列のモデル学習を実現する最適化ライブラリ
+
+### [MSMARCO](https://microsoft.github.io/msmarco/)
+AI研究者向けに公開している大規模データ
+
+
+
 # 2. Recipe
 ### [Computer Vision](https://github.com/microsoft/computervision-recipes)
 
@@ -126,6 +134,8 @@ Deep Learning モデルのハイパーパラメータチューニングのサン
 
 Azure IoT Edge に機械学習モデルをデプロイする手順サンプル
 
+### [DeepSeismic](https://github.com/microsoft/seismic-deeplearning)
+地震解釈 ✖️ 機械学習のサンプルコード集
 
 # 4. Workshop
 
@@ -160,3 +170,6 @@ BERT を用いて Stack overflow の質問に自動的にタグを付与する�
 
 ### [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 初心者向け Python 無料講座
+
+
+# 6. 整理中 ... 
