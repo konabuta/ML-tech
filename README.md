@@ -10,11 +10,11 @@ Microsoft libraries, tools, recipes, ample codes and workshop contents for machi
 
 ### [EconML](https://github.com/microsoft/EconML)
 
-統計的因果推論の推定ライブラリ。
+統計的因果推論の推定ライブラリ。Microsoft Research の Alice Project.
 
 ### [DoWhy](https://github.com/microsoft/dowhy)
 
-統計的因果推論のライフサイクルをサポートするライブラリ。
+統計的因果推論のライフサイクルをサポートするライブラリ(フレームワーク)。
 
 
 ### [Nueral Network Intelligence](https://github.com/microsoft/nni)
