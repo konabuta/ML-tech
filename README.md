@@ -87,6 +87,8 @@ Microsoft Reserch と旧 Yahoo! Research が開発している高速機械学習
 ### [MSMARCO](https://microsoft.github.io/msmarco/)
 AI研究者向けに公開している大規模データ
 
+### [pyright](https://github.com/microsoft/pyright)
+静的な Python のタイプチェック
 
 
 # 2. Recipe
@@ -164,12 +166,17 @@ BERT を用いて Stack overflow の質問に自動的にタグを付与する�
 
 
 # 5. Training
+### [PRML(Pattern Recognition and Machine Learning)](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
+Bishop によるパターン認識と機械学習を包括的に説明した書籍 (Free)
 
 ### [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
-データサイエンスの基本的な理論について記載している PDF
+データサイエンスの基本的な理論について記載している書籍 (Free)
 
-### [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
-初心者向け Python 無料講座
+### Getting Start with Python
+Python チュートリアル動画
+- [Python for beginners](https://aka.ms/pythonbeginnerseries)
+- [More Python for beginners](https://aka.ms/morepython)
+- [Even more Python for beginners](https://aka.ms/evenmorepython)
 
 
 # 6. 整理中 ... 
